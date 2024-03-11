@@ -1,27 +1,24 @@
-document.addEventListener('DOMContentLoaded', function () {
-    const decreaseButton = document.querySelector('.decrease-btn');
-    const increaseButton = document.querySelector('.increase-btn');
-    const quantityElement = document.querySelector('#quantity');
-  console.log(decreaseButton);
-    let quantity = 0;
-  
-    function updateQuantity() {
-      quantityElement.textContent = quantity;
-    }
-  
-    decreaseButton.addEventListener('click', function () {
-      if (quantity > 0) {
-        quantity--;
-        updateQuantity();
-      }
-    });
-  
-    increaseButton.addEventListener('click', function () {
-      quantity++;
-      updateQuantity();
-    });
-  });
+function counterNum() {
+    const counterItems = document.querySelectorAll('.counter-item');
 
-  document.addEventListener('DOMContentLoaded', function () {
-        init();
+    counterItems.forEach(function(item) {
+        let clickCount = 0;
+        const btnIncrease = item.querySelector('.btnIncrease');
+        const btnReduce = item.querySelector('.btnReduce');
+        const counterText = item.querySelector('.counter-text');
+
+        btnIncrease.addEventListener('click', function() {
+            clickCount++;
+            counterText.textContent = clickCount;
+        });
+
+        btnReduce.addEventListener('click', function() {
+            if (clickCount > 0) {
+                clickCount--;
+                counterText.textContent = clickCount;
+            }
+        });
     });
+}
+
+counterNum();
