@@ -1,0 +1,428 @@
+{
+    "Products" :[
+        {
+            "Name" : "小星星系列",
+            "Introduce" : "(15ML / 50丁鹽)",
+            "Item" :[
+                {
+                    "ItemName" : "英式烤煙鹽(沒涼)",
+                    "ItemIntroduce" :"堅果類味黎烤煙"
+                },
+                {
+                    "ItemName" : "幸運菸草鹽(沒涼)",
+                    "ItemIntroduce" :"法式香草+菸草搭配"
+                },
+                {
+                    "ItemName" : "草莓混合水果鹽(沒涼)",
+                    "ItemIntroduce" : "基底草莓味+尾韻淡淡水果味"
+                },
+                {
+                    "ItemName" : "薄荷煙草鹽(有涼)",
+                    "ItemIntroduce" : "雙倍薄荷+美國東部煙草.愛涼煙首選"
+                },
+                {
+                    "ItemName" : "芒果冰(有涼)",
+                    "ItemIntroduce" : "單純芒果"
+                },
+                {
+                    "ItemName" : "荔枝冰(有涼)",
+                    "ItemIntroduce" : "單純荔枝"
+                },
+                {
+                    "ItemName" : "藍莓冰(有涼)",
+                    "ItemIntroduce" : "單純藍莓"
+                },
+                {
+                    "ItemName" : "水晶葡萄冰(有涼)",
+                    "ItemIntroduce" : "單純水晶葡萄+冰塊"
+                }
+            ]
+        },
+        {
+            "Name" : "暴脾氣系列",
+            "Introduce" : "(30ML / 38丁鹽)",
+            "Item" :[
+                {
+                    "ItemName" : "草莓石榴鹽",
+                    "ItemIntroduce" : "有點甜草莓派也有點像草莓石榴"
+                },
+                {
+                    "ItemName" : "哈密瓜冰鹽",
+                    "ItemIntroduce" : "微涼明顯哈密瓜味,哈味十足"
+                },
+                {
+                    "ItemName" : "茉莉花茶鹽",
+                    "ItemIntroduce" : "喜歡茶香的建議試試,銷售量高"
+                },
+                {
+                    "ItemName" : "帝王芭樂鹽",
+                    "ItemIntroduce" : "有涼的芭樂,紅心芭樂覺得擊喉的人可以選這隻順口"
+                },
+                {
+                    "ItemName" : "黃油煙草",
+                    "ItemIntroduce" : "聽說是鹽博士黑金版綜合體提升38丁,煙癮大的人建議試試真心好抽"
+                },
+                {
+                    "ItemName" : "蘋果派",
+                    "ItemIntroduce" : "香甜美國蘋果派,入口濃濃的肉桂味,舌尖有蘋果的酸甜"
+                },
+                {
+                    "ItemName" : "葡萄冰",
+                    "ItemIntroduce" : "新鮮採摘葡萄清香,清爽口味"
+                },
+                {
+                    "ItemName" : "凍檸茶冰",
+                    "ItemIntroduce" : "港式凍檸茶口味"
+                },
+                {
+                    "ItemName" : "水蜜桃冰",
+                    "ItemIntroduce" : "水蜜桃凍飲"
+                },
+                {
+                    "ItemName" : "西瓜泡泡糖",
+                    "ItemIntroduce" : "西瓜口味飛壘口香糖"
+                },
+                {
+                    "ItemName" : "山竹冰",
+                    "ItemIntroduce" : "氣味與口感皆香甜柔和的美味水果,有果后美名<"
+                },
+                {
+                    "ItemName" : "冰糖雪梨",
+                    "ItemIntroduce" : "據說止咳潤肺又有好滋味"
+                },
+                {
+                    "ItemName" : "爆脾氣鐵觀音",
+                    "ItemIntroduce" : "一款競爭力強的鐵觀音茶"
+                }
+            ]
+        },
+        {
+            "Name" : "鹽博士系列",
+            "Introduce" : "(30ML / 30丁鹽)",
+            "Item" : [
+                {
+                    "ItemName" : "純正煙草鹽",
+                    "ItemIntroduce" : "乾淨醇厚煙草氣息加上完美的擊喉體驗，給你帶來最真的抽煙感受。"
+                },
+                {
+                    "ItemName" : "冰莫吉托鹽",
+                    "ItemIntroduce" : "青澀檸檬點綴牙買加朗姆酒，清新薄荷簡約而不簡單。"
+                },
+                {
+                    "ItemName" : "奶油香蕉派鹽",
+                    "ItemIntroduce" : "典型美式蛋糕香氣，蜂蜜搭配濃郁香蕉醬的香甜，叫人回味無窮。"
+                },
+                {
+                    "ItemName" : "白桃菠蘿軟糖鹽",
+                    "ItemIntroduce" : "菠蘿加白桃，多彩水果繽紛，配上美國棉花糖的纏綿魔幻水果夢境。"
+                },
+                {
+                    "ItemName" : "烏龍茶鹽",
+                    "ItemIntroduce" : "清新烏龍，馥香濃郁，丁鹽在茶香的帶引下，勵勵震喉，很是解癮。"
+                },
+                {
+                    "ItemName" : "西瓜冰鹽",
+                    "ItemIntroduce" : "清爽美味西瓜，爆冰酷爽，解密夏日酷暑。"
+                },
+                {
+                    "ItemName" : "可樂冰鹽",
+                    "ItemIntroduce" : "高度還原可樂冰，帶你碳酸飲料的感覺，這就是冰爽可樂。"
+                },
+                {
+                    "ItemName" : "香芋芝士蛋糕鹽",
+                    "ItemIntroduce" : ""
+                },
+                {
+                    "ItemName" : "藍莓酸冰鹽",
+                    "ItemIntroduce" : ""
+                },
+                {
+                    "ItemName" : "芒果酸奶鹽",
+                    "ItemIntroduce" : ""
+                },
+                {
+                    "ItemName" : "痞子煙草鹽(鹽博士黑金版)",
+                    "ItemIntroduce" : "主要美國煙草,融入烤煙,輔于堅果餅乾香草..煙味逼真"
+                },
+                {
+                    "ItemName" : "父親的煙草鹽(鹽博士黑金版)",
+                    "ItemIntroduce" : "華夫餅混白蘭地,蛋蛋雪茄味,整體協調香氣襲人,百抽不膩"
+                }
+            ]
+        },
+        {
+            "Name" : "叢林幻境鹽系列",
+            "Introduce" : "(30ML / 35丁鹽)",
+            "Item" : [
+                {
+                    "ItemName" : "芒果荔枝冰",
+                    "ItemIntroduce" : "芒果+荔枝+涼"
+                },
+                {
+                    "ItemName" : "金色檸檬",
+                    "ItemIntroduce" : "清香柔和爽口檸檬汁,隱約有一點涼"
+                },
+                {
+                    "ItemName" : "藍莓幻境",
+                    "ItemIntroduce" : "酸爽梅子與藍莓汁結合,涼味適當"
+                }
+            ]
+        },
+        {
+            "Name" : "888鹽系列",
+            "Introduce" : "(30ML / 30丁鹽)",
+            "Item" : [
+                {
+                    "ItemName" : "黃(芒果冰)",
+                    "ItemIntroduce" : ""
+                },
+                {
+                    "ItemName" : "綠(哈蜜瓜冰",
+                    "ItemIntroduce" : ""
+                },
+                {
+                    "ItemName" : "紫(黑加侖荔枝冰)",
+                    "ItemIntroduce" : ""
+                },
+                {
+                    "ItemName" : "紅(荔枝冰)",
+                    "ItemIntroduce" : ""
+                }
+            ]
+        },
+        {
+            "Name" : "巫毒鹽系列",
+            "Introduce" : "(30ML / 35丁鹽)",
+            "Item" : [
+                {
+                    "ItemName" : "小綠人鹽",
+                    "ItemIntroduce" : "荔枝熱帶水果混合冰"
+                },
+                {
+                    "ItemName" : "小綠人西瓜糖果",
+                    "ItemIntroduce" : ""
+                },
+                {
+                    "ItemName" : "小綠人爆米花鹽",
+                    "ItemIntroduce" : "奶油爆米花"
+                }
+            ]
+        },
+        {
+            "Name" : "馬來 WICKED 系列",
+            "Introduce" : "(60ML / 30丁鹽)",
+            "Item" : [
+                {
+                    "ItemName" : "芒果黑加侖鹽",
+                    "ItemIntroduce" : ""
+                },
+                {
+                    "ItemName" : "草莓蘋果鹽",
+                    "ItemIntroduce" : ""
+                },
+                {
+                    "ItemName" : "葡萄蘋果鹽",
+                    "ItemIntroduce" : ""
+                },
+                {
+                    "ItemName" : "哈密瓜黑加侖鹽",
+                    "ItemIntroduce" : ""
+                },
+                {
+                    "ItemName" : "荔枝西瓜鹽",
+                    "ItemIntroduce" : ""
+                }
+            ]
+        },
+        {
+            "Name" : "馬來 TAMI 鹽系列",
+            "Introduce" : "(30ML / 35丁鹽)",
+            "Item" : [
+                {
+                    "ItemName" : "芒果鳳梨",
+                    "ItemIntroduce" : "熱帶芒果+熟鳳梨+冰塊"
+                },
+                {
+                    "ItemName" : "檸檬可樂",
+                    "ItemIntroduce" : "前味檸檬酸氣+後味可樂"
+                },
+                {
+                    "ItemName" : "咖啡冰",
+                    "ItemIntroduce" : "義大利濃縮咖啡+冰"
+                },
+                {
+                    "ItemName" : "芬達橘子",
+                    "ItemIntroduce" : "就芬達橘子汽水"
+                },
+                {
+                    "ItemName" : "麥根沙士(很涼",
+                    "ItemIntroduce" : "冰鎮沙士"
+                },
+                {
+                    "ItemName" : "百香葡萄冰",
+                    "ItemIntroduce" : "百香果+葡萄"
+                }
+            ]
+        },
+        {
+            "Name" : "嗨鹽系列",
+            "Introduce" : "(30ML / 50丁鹽)",
+            "Item" : [
+                {
+                    "ItemName" : "絕對零度",
+                    "ItemIntroduce" : ""
+                },
+                {
+                    "ItemName" : "經典煙草",
+                    "ItemIntroduce" : ""
+                },
+                {
+                    "ItemName" : "蘋果冰",
+                    "ItemIntroduce" : ""
+                },
+                {
+                    "ItemName" : "藍莓果醬",
+                    "ItemIntroduce" : ""
+                },
+                {
+                    "ItemName" : "楊枝甘露茶",
+                    "ItemIntroduce" : "(芒果酸甜+西柚茶微酸+微涼)"
+                },
+                {
+                    "ItemName" : "芭樂檸檬茶",
+                    "ItemIntroduce" : ""
+                },
+                {
+                    "ItemName" : "綠茶冰",
+                    "ItemIntroduce" : ""
+                }
+            ]
+        },
+        {
+            "Name" : "美國66號公路鹽系列",
+            "Introduce" : "(30ML / 40丁鹽)",
+            "Item" : [
+                {
+                    "ItemName" : "草莓奇異果奶",
+                    "ItemIntroduce" : ""
+                },
+                {
+                    "ItemName" : "芒果茉莉花茶",
+                    "ItemIntroduce" : ""
+                },
+                {
+                    "ItemName" : "冰蜜桃烏龍",
+                    "ItemIntroduce" : ""
+                },
+                {
+                    "ItemName" : "蜜香柚茶",
+                    "ItemIntroduce" : ""
+                }
+            ]
+        },
+        {
+            "Name" : "ko 鹽系列",
+            "Introduce" : "(30ML / 50丁鹽)",
+            "Item" : [
+                {
+                    "ItemName" : "粉紅佳人",
+                    "ItemIntroduce" : "草莓+樹莓冰"
+                },
+                {
+                    "ItemName" : "綠色心情",
+                    "ItemIntroduce" : "奇異果冰"
+                }
+            ]
+        },
+        {
+            "Name" : "鹽語系列",
+            "Introduce" : "(30ML)",
+            "Item" : [
+                {
+                    "ItemName" : "葡萄奶(40丁鹽)",
+                    "ItemIntroduce" : ""
+                },
+                {
+                    "ItemName" : "紅牛(40丁鹽)",
+                    "ItemIntroduce" : ""
+                },
+                {
+                    "ItemName" : "綠豆沙冰(35丁鹽)",
+                    "ItemIntroduce" : ""
+                },
+                {
+                    "ItemName" : "鹽語鐵觀音(35丁鹽)",
+                    "ItemIntroduce" : ""
+                }
+            ]
+        },
+        {
+            "Name" : "魔丁鹽系列",
+            "Introduce" : "(30ML)",
+            "Item" : [
+                {
+                    "ItemName" : "邪魔",
+                    "ItemIntroduce" : "烤巧克力餅乾+淡淡菸草風味"
+                },
+                {
+                    "ItemName" : "眼魔",
+                    "ItemIntroduce" : "香澄、鳳梨、草莓三重奏"
+                }
+            ]
+        },
+        {
+            "Name" : "大Pt丁鹽系列",
+            "Introduce" : "(30ML / 35丁鹽)",
+            "Item" : [
+                {
+                    "ItemName" : "冰哈蜜瓜奶",
+                    "ItemIntroduce" : ""
+                },
+                {
+                    "ItemName" : "日式爆珠",
+                    "ItemIntroduce" : ""
+                },
+                {
+                    "ItemName" : "焦糖翠貝卡",
+                    "ItemIntroduce" : ""
+                },
+                {
+                    "ItemName" : "冰茉莉鐵觀音",
+                    "ItemIntroduce" : ""
+                }
+            ]
+        },
+        {
+            "Name" : "藍帽丁鹽系列",
+            "Introduce" : "(玻璃瓶裝30ML)",
+            "Item" : [
+                {
+                    "ItemName" : "檸檬萬寶路 (50MG)",
+                    "ItemIntroduce" : ""
+                },
+                {
+                    "ItemName" : "希臘草莓酸奶(35MG)",
+                    "ItemIntroduce" : ""
+                },
+                {
+                    "ItemName" : "芒果冰沙 (35MG)",
+                    "ItemIntroduce" : ""
+                }
+            ]
+        },
+        {
+            "Name" : "媽媽桑丁鹽系列",
+            "Introduce" : "(30ML / 35丁鹽)",
+            "Item" : [
+                {
+                    "ItemName" : "原味奶",
+                    "ItemIntroduce" : ""
+                },
+                {
+                    "ItemName" : "益力養樂多",
+                    "ItemIntroduce" : ""
+                }
+            ]
+        }
+    ]
+}
