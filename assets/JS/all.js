@@ -32,7 +32,7 @@ document.addEventListener('DOMContentLoaded', function () {
     let productList = document.getElementById('productList');
 
     // 使用 fetch 從 data.json 中取得資料
-    fetch('https://github.com/zitonbar/shopping-cart/blob/5e4134aee3f3eca532de21228b9571065d249e2f/assets/JSON/data.json')
+    fetch('https://raw.githubusercontent.com/zitonbar/shopping-cart/refs/heads/main/assets/JSON/data.json')
         .then(response => {
             if (!response.ok) {
                 throw new Error('Network response was not ok!');
